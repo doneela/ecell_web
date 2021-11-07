@@ -144,7 +144,7 @@ button {
     color: black;
     min-height: 380px;
     font-family: 'Ubuntu', sans-serif;
-    background-image: url("/Users/doneeladas/hello world /ecell/ecell_pic.jpeg");
+    background-image: url("ecell_pic.jpeg");
     background-size: cover;
 }
 
